@@ -1,5 +1,5 @@
 {
   "name": "Building Height Calculator",
-  "description": "An interactive web application for students to learn trigonometry by calculating the height of a building using a simple clinometer.",
+  "description": "An interactive web application for students to learn trigonometry by calculating the height of a building using a simple clinometer. Built with pure HTML, CSS, and JavaScript.",
   "requestFramePermissions": []
 }
